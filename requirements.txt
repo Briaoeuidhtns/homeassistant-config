@@ -1,0 +1,6 @@
+# deploy
+appdaemon
+
+# testing
+pytest
+appdaemontestframework
